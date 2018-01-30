@@ -1,2 +1,5 @@
 print ('My name is David')
 print ('I was born in 98')
+print ("my favorite food is pizza")
+print ("my favorite music is rap")
+print ('what is my favorite astronomical sign')
